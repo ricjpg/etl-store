@@ -28,5 +28,5 @@
 1. Instala Python 3:
 2. Instala las dependencias con: `python -m pip install oracledb --upgrade`.
 3. Clona este repositorio
-4. Asegurate de tener lista la base de datos OLTP
+4. Asegurate de tener lista la base de datos OLTP **usa el mismo usuario y contraseña de la bd proporcionada**
 5. Ejecuta el archivo etl con: `python etl.py`
